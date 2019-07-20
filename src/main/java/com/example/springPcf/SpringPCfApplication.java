@@ -1,4 +1,4 @@
-package com.example.howtodoinjava.springhelloworldcf;
+package com.example.springPcf;
 
 import java.util.Date;
 
@@ -10,10 +10,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
-public class SpringHelloworldCfApplication {
+public class SpringPCfApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringHelloworldCfApplication.class, args);
+		SpringApplication.run(SpringPCfApplication.class, args);
 	}
 }
 
